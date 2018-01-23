@@ -1,2 +1,2 @@
 # Spring-Boot
-Ohjelmitokehityksen teknologiat
+Ohjelmistokehityksen teknologiat kurssin harjoitukset
